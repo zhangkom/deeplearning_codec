@@ -4,6 +4,8 @@
 
 中国科学技术大学 (USTC)，[智能媒体计算实验室](https://scholar.google.com/citations?user=1ayDJfsAAAAJ&hl=en&oi=ao)
 
+原文地址：https://github.com/XiaohanPan/Papers-for-Learning-based-Video-Coding
+
 **📚 关于新作品**。如果您想将您的研究（例如，论文或项目的链接）纳入这个仓库中，焦点是基于扩散模型的图像处理。请欢迎提出问题或给我们发邮件。我们将尽快将其纳入这个仓库和我们的调查报告。
 
 ## 目录
