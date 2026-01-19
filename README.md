@@ -85,7 +85,7 @@
 | :--: | :---: | :--: | :--: | :--: |
 | PQA | [Prediction and Reference Quality Adaptation for Learned Video Compression](https://arxiv.org/pdf/2406.14118) | Xihua Sheng | arXiv 2024.06 |  |
 | DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
-|  | [Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression](https://ieeexplore.ieee.org/abstract/document/10416688) | Xihua Sheng | TCSVT 2024 |  |
+| DCVC-SDD | [Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression](https://ieeexplore.ieee.org/abstract/document/10416688) | Xihua Sheng | TCSVT 2024 |  |
 |  | [Exploring Long- and Short-Range Temporal Information for Learned Video Compression](https://ieeexplore.ieee.org/document/10388053) | Huairui Wang | TIP 2024 |  |
 |  | [Enhanced Context Mining and Filtering for Learned Video Compression](https://ieeexplore.ieee.org/document/10254316) | Haifeng Guo | TMM 2023 |  |
 |  | [B-CANF: Adaptive B-frame Coding with Conditional Augmented Normalizing Flows](https://ieeexplore.ieee.org/abstract/document/10201921) | Mu-Jung Chen | TCSVT 2023 |  |
