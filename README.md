@@ -83,6 +83,7 @@
 
 | 模型 | 论文 | 第一作者 | 会议 | 项目 |
 | :--: | :---: | :--: | :--: | :--: |
+| DCVC-RT | [Towards Practical Real-Time Neural Video Compression](https://arxiv.org/abs/2502.20762) | Zhaoyang Jia | arXiv 2025.03 | https://github.com/microsoft/DCVC/tree/main |
 | PQA | [Prediction and Reference Quality Adaptation for Learned Video Compression](https://arxiv.org/pdf/2406.14118) | Xihua Sheng | arXiv 2024.06 |  |
 | DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
 | DCVC-SDD | [Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression](https://ieeexplore.ieee.org/abstract/document/10416688) | Xihua Sheng | TCSVT 2024 |  |
