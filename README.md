@@ -32,6 +32,8 @@
 
 - [编解码器实用性](#编解码器实用性)
 
+- [音频编码器](#音频编码器)
+
 ## 未分类论文
 
 | 模型 | 论文 | 第一作者 | 会议 | 项目 |
@@ -174,3 +176,9 @@
 |  | [Sparse-to-Dense: High Efficiency Rate Control for End-to-end Scale-Adaptive Video Coding](https://ieeexplore.ieee.org/document/10246313) | Jiancong Chen | TCSVT 2023 |  |
 |  | [Complexity-guided Slimmable Decoder for Efficient Deep Video Compression](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Complexity-Guided_Slimmable_Decoder_for_Efficient_Deep_Video_Compression_CVPR_2023_paper.pdf) | Zhihao Hu | CVPR 2023 |  |
 |  | [FPX-NIC: An FPGA-Accelerated 4K Ultra-High-Definition Neural Video Coding System](https://ieeexplore.ieee.org/document/9745965) | Chuanmin Jia | TCSVT 2022 |  |
+
+## 音频编码器
+
+| 模型 | 论文 | 第一作者 | 会议 | 项目 |
+| :--: | :---: | :--: | :--: | :--: |
+| EnCodec | [EnCodec: High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438) | Alexandre Défossez | TCSVT 2022 |  |
