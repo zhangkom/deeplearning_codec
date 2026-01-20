@@ -78,6 +78,7 @@
 | 模型 | 论文 | 第一作者 | 会议 | 项目 |
 | :--: | :---: | :--: | :--: | :--: |
 |  | [Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding](https://ieeexplore.ieee.org/document/10416172) | Fabian Brand | TCSVT 2024 |  |
+| GRACE | [GRACE: Loss-Resilient Real-Time Video through Neural Codecs](https://www.usenix.org/conference/nsdi24/presentation/cheng) | Yihua Cheng | TCSVT 2024 | https://github.com/UChi-JCL/Grace |
 
 #### 条件编码
 
