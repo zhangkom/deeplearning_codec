@@ -181,4 +181,4 @@
 
 | 模型 | 论文 | 第一作者 | 会议 | 项目 |
 | :--: | :---: | :--: | :--: | :--: |
-| EnCodec | [EnCodec: High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438) | Alexandre Défossez | TCSVT 2022 |  |
+| EnCodec | [EnCodec: High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438) | Alexandre Défossez | TCSVT 2022 | https://github.com/facebookresearch/encodec |
